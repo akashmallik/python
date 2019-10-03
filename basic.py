@@ -120,3 +120,8 @@ x = str(2.5)
 print(x)
 x = str("3.5")
 print(x)
+
+
+# python input
+name = input("Enter your name: ")
+print("Hello " + name)
